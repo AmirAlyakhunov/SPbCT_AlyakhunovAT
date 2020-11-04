@@ -1,2 +1,7 @@
 ﻿  test.cpp
+e:\amir desktop\учеба\лабы баталов\test\test\test.cpp(1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  e:\amir desktop\учеба\лабы баталов\test\test\test.cpp: note: см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+e:\amir desktop\учеба\лабы баталов\test\test\test.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  e:\amir desktop\учеба\лабы баталов\test\test\test.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  e:\amir desktop\учеба\лабы баталов\test\test\test.cpp(2): note: использование предварительно скомпилированного заголовка
   test.vcxproj -> E:\Amir desktop\учеба\Лабы Баталов\test\Debug\test.exe

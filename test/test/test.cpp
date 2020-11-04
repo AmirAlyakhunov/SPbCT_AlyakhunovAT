@@ -1,13 +1,14 @@
-﻿#include "pch.h"
+﻿#define _CRT_SECURE_NO_WARNINGS
+#include "pch.h"
 #include <iostream>
 #include <stdlib.h>
 #include <string>
 using namespace std;
 
-int main()
+int main(int argc, char* argv[])
 {
 	FILE *fp;
-	fopen_s(&fp, "rs.txt", "r");
+	fp = fopen(argv[1], "rb");
 	string text;
 
 	if (fp == NULL) {
@@ -15,13 +16,18 @@ int main()
 		exit(0);
 	}
 
-	int ch = fgetc(fp);
-	while (ch != EOF) {
-		text += (char)ch;
-		text += ' ';
-		ch = fgetc(fp);
+	if (argc > 1) {
+		int ch = fgetc(fp);
+		while (ch != EOF) {
+			text += (char)ch;
+			text += ' ';
+			ch = fgetc(fp);
+	}
+
 	}
 
 	fclose(fp);
 	cout << text << endl;
+
+	system("pause");
 }
