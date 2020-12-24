@@ -1,0 +1,25 @@
+﻿  MyForm.cpp
+e:\amir desktop\учеба\лабы баталов\exam\exam\myform.h(423): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note:  см. объявление "localtime"
+e:\amir desktop\учеба\лабы баталов\exam\exam\myform.h(460): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note:  см. объявление "_sleep"
+e:\amir desktop\учеба\лабы баталов\exam\exam\myform.h(462): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note:  см. объявление "_sleep"
+e:\amir desktop\учеба\лабы баталов\exam\exam\myform.h(464): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note:  см. объявление "_sleep"
+e:\amir desktop\учеба\лабы баталов\exam\exam\myform.h(466): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note:  см. объявление "_sleep"
+e:\amir desktop\учеба\лабы баталов\exam\exam\myform.h(468): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note:  см. объявление "_sleep"
+e:\amir desktop\учеба\лабы баталов\exam\exam\myform.h(470): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note:  см. объявление "_sleep"
+e:\amir desktop\учеба\лабы баталов\exam\exam\myform.h(472): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note:  см. объявление "_sleep"
+e:\amir desktop\учеба\лабы баталов\exam\exam\myform.h(474): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note:  см. объявление "_sleep"
+e:\amir desktop\учеба\лабы баталов\exam\exam\myform.h(476): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note:  см. объявление "_sleep"
+e:\amir desktop\учеба\лабы баталов\exam\exam\myform.h(478): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note:  см. объявление "_sleep"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  exam.vcxproj -> E:\Amir desktop\учеба\Лабы Баталов\exam\Debug\exam.exe
